@@ -1,0 +1,9 @@
+# Ignore Python virtual environments
+paynet-venv/
+kaggle/
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore dataset
+cc_sample/
